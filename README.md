@@ -1,3 +1,4 @@
+
 ## PERSONAL DETAILS :
   #### Name : RAVI RANJAN KUMAR
   #### Company : CODTECH IT SOLUTIONS
@@ -34,4 +35,6 @@
 ## RUN THE CODE :
   For writing and running the code,I used an IDE(vs code),a text editor with Python support 
 
+![TASK1(B)](https://github.com/user-attachments/assets/76f7fc6e-4adb-4922-a43d-b3586bf43f9e)
+![TASK1(A)](https://github.com/user-attachments/assets/7e813aab-3e33-49a8-aafc-107514b5c639)
 
